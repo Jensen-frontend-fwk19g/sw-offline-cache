@@ -1,0 +1,16 @@
+{
+  "name": "Cat library app",
+  "short_name": "Catz",
+  "description": "Gallery of images",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#D7AFF7",
+  "theme_color": "#D7AFF7"
+}
