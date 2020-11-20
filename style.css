@@ -1,4 +1,9 @@
 body {
     background-color: #D7AFF7;
     color: #440B72;
+    padding: 0.6em;
+}
+img {
+    width: 200px;
+    display: block;
 }
